@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+.emojis {
+  width: 90%;
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  height: 47vh;
+  overflow-y: scroll;
+}
